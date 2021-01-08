@@ -1,2 +1,4 @@
 gwqlovemmjhaha
+<<<<<<< HEAD
 购物车功能(修复bug)
+支付功能
